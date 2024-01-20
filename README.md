@@ -1,2 +1,3 @@
 # cs-tri-tue-nhan-tao
-ly thuyet +code
+About
+Cơ sở trí tuệ nhân tạo SGU python
